@@ -36,6 +36,11 @@ header {
 ul {
   list-style: none;
 }
+
+#logo {
+  width: 20rem;
+}
+
 #hero {
   background-image: url(../img/hero.jpg);
   height: 35rem;
